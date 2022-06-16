@@ -11,4 +11,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albbeltran" alt="albbeltran" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true" alt="yourusername" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=albbeltran&show_icons=true" alt="albbeltran" /></p>
