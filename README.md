@@ -5,8 +5,6 @@
 - 🤔 I’m looking for help with tips to be a good developer
 - ⚡ Fun fact: Just a few months ago I wanted to be an Aeronautical Engineer
 
-## ⚡ Fun fact: A cool fun fact about you.
-
 <h3 align="center">Profile Stats</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albbeltran" alt="albbeltran" /> </p>
