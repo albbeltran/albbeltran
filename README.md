@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alberto</h1>
 <h3 align="center">CS student with passion for blockchain & cryptoworld. I like going out with friends and learning</h3>
 
-- 🔭 I’m currently working on [Bank Marketing](https://github.com/Dotto-Luis/Projects/tree/main/Finance/Bank%20Marketing) and [Properati](https://github.com/Dotto-Luis/Projects/tree/main/Real%20State/Properarti)
-
 - 🔭 I’m currently studying Software Engineering
 
 - 🤔 I’m looking for colaborate with Blockchain or Web Development projects
