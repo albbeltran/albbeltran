@@ -20,7 +20,4 @@
 
 [![@Web Development](https://img.shields.io/badge/%40Web%20Development-%20-green)](https://www.geeksforgeeks.org/web-development/) [![@Blockchain](https://img.shields.io/badge/@Blockchain--blue?&logoColor=white)](https://www.blockchain.com/) [![@Smart-Contracts](https://img.shields.io/badge/@Smart_Contracts--blue?&logoColor=white)](https://ethereum.org/en/developers/docs/smart-contracts/) [![@Ethereum](https://img.shields.io/badge/@Ethereum--blue?&logoColor=white)](https://ethereum.org/en)
 
-# Stats
-[![albbeltran stats](https://github-readme-stats.vercel.app/api?username=albbeltran&show_icons=true&theme=tokyonight)](https://github.com/albbeltran/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albbeltran&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/albbeltran/github-readme-stats)
